@@ -134,6 +134,11 @@ div#inovacao {
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  max-width: 800px;
+  max-width: 1150px;
   margin: 0 auto;
+  grid-gap: 100px;
+  grid-row-gap: 20px;
+  font-size: 12px;
+  text-align: center;
 }
+
